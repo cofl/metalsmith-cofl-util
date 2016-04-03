@@ -2,7 +2,7 @@
   "name": "metalsmith-cofl-util",
   "description": "A Metalsmith plugin that does the same as some scripts I used to have client-side",
   "repository": "git://github.com/cofl/metalsmith-cofl-util",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "license": "Clear BSD",
   "main": "lib/index.js",
   "dependencies": {
